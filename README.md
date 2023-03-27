@@ -4,11 +4,13 @@ Hi 👋 My name is Chukwu Solomon
 Frontend Engineer
 -----------------
 
+From dumbbells to divs ▪︎ Gym rat ▪︎ Frontend Engineer ▪︎ Web3 enthusiast
+
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [theonlycredeski@gmail.com](mailto:theonlycredeski@gmail.com)
 * 🧠  I'm learning how to get better at everything
 * 💬 Ask me about anything Js
-* 🤝  I'm open to collaborating on React, Nextjs and any Javascript projects
+* 🤝  I'm open to collaborating on React, Nextjs and any Javascript project
 
 <a href="https://www.twitter.com/TechyCredeski" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TechyCredeski?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -53,12 +55,3 @@ src="https://img.shields.io/twitter/follow/TechyCredeski?logo=twitter&style=for-
 <a href="http://www.github.com/TechyCredeski"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=TechyCredeski&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/TechyCredeski" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechyCredeski&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<!--
-
-
-
-
-
--->
