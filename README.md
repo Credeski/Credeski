@@ -7,7 +7,8 @@ Frontend Engineer
 From dumbbells to divs ▪︎ Gym rat ▪︎ Frontend Engineer ▪︎ Web3 enthusiast
 
 * 🌍  I'm based in Lagos, Nigeria
-* ✉️  You can contact me at [theonlycredeski@gmail.com](mailto:theonlycredeski@gmail.com)
+* 🚀  I'm currently working on Javascript & React projects
+* ✉️  You can contact me at [theonlycredeski@gmail.com](mailto:theonlycredeski@gmail.com)
 * 🧠  I'm learning how to get better at everything
 * 💬 Ask me about anything Js
 * 🤝  I'm open to collaborating on React, Nextjs and any Javascript project
