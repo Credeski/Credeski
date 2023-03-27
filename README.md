@@ -7,7 +7,7 @@ Frontend Engineer
 * 🌍  I'm based in Lagos, Nigeria
 * ✉️  You can contact me at [theonlycredeski@gmail.com](mailto:theonlycredeski@gmail.com)
 * 🧠  I'm learning how to get better at everything
-* - 💬 Ask me about anything Js
+* 💬 Ask me about anything Js
 * 🤝  I'm open to collaborating on React, Nextjs and any Javascript projects
 
 <a href="https://www.twitter.com/TechyCredeski" target="_blank" rel="noreferrer"><img
