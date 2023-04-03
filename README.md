@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend Engineer
 -----------------
 
-From dumbbells to divs ▪︎ Gym rat ▪︎ Frontend Engineer ▪︎ Web3 enthusiast
+<!-- From dumbbells to divs ▪︎ Gym rat ▪︎ Frontend Engineer ▪︎ Web3 enthusiast -->
 
 * 🌍  I'm based in West Africa
 * 🚀  I'm currently working on Javascript & React projects
