@@ -11,7 +11,7 @@ Frontend Engineer
 * ✉️  You can contact me at [theonlycredeski@gmail.com](mailto:theonlycredeski@gmail.com)
 * 🧠  I'm learning how to get better at everything
 * 💬 Ask me about anything Js
-* 🤝  I'm open to collaborating on React, Nextjs and any Javascript project and also any junior developer role.
+* 🤝  I'm open to collaborating on React, Nextjs, Javascript projects and also any junior developer role.
 
 <a href="https://www.twitter.com/TechyCredeski" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TechyCredeski?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
