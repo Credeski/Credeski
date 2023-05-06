@@ -9,7 +9,7 @@ Frontend Software Engineer
 * 🌍  I'm based in West Africa
 * 🚀  I'm currently working on React projects
 * ✉️  You can contact me at [theonlycredeski@gmail.com](mailto:theonlycredeski@gmail.com)
-* 🧠  I'm learning more about React.
+* 🧠  I'm learning more about React and the Javascript ecosystem.
 * 💬 Ask me about anything Js
 * 🤝  I'm open to collaborating on React, Nextjs, Javascript projects and also any junior developer role.
 
