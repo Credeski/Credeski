@@ -10,8 +10,8 @@ Software Engineer
 * 🚀  My current focus is building scalable infrastructure, streamlining deployments, and maintaining system reliability.
 * ✉️  You can contact me at [theonlycredeski@gmail.com](mailto:theonlycredeski@gmail.com)
 * 🧠  I’m learning more about working with tools like Docker, Kubernetes, and cloud platforms to automate and scale systems.
-* 💬  Ask me about anything DevOps.
-* 🤝  Looking to collaborate on DevOps initiatives and contribute to teams focused on modern infrastructure and automation.
+* 💬  Ask me about anything QA.
+* 🤝  Looking to collaborate on QA initiatives and contribute to teams focused on modern infrastructure and automation.
 
 <a href="https://www.twitter.com/TechyCredeski" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/TechyCredeski?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
