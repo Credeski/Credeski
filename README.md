@@ -17,7 +17,7 @@ Software Engineer
 src="https://img.shields.io/twitter/follow/TechyCredeski?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+<!---### Skills
 
 
 <p align="left">
