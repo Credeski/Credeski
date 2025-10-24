@@ -1,7 +1,7 @@
 Hi I'm Chukwu Solomon ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-Software Engineer
+QA Engineer
 -----------------
 
 <!-- From dumbbells to divs ▪︎ Gym rat ▪︎ Frontend Engineer ▪︎ Web3 enthusiast -->
