@@ -1,7 +1,7 @@
 Hi I'm Chukwu Solomon ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ======================================================================================================================================
 
-QA Engineer
+Automation Engineer
 -----------------
 
 <!-- From dumbbells to divs ▪︎ Gym rat ▪︎ Frontend Engineer ▪︎ Web3 enthusiast -->
@@ -9,7 +9,6 @@ QA Engineer
 * 🌍  I'm based in West Africa
 * 🚀  My current focus is building scalable infrastructure, streamlining deployments, and maintaining system reliability.
 * ✉️  You can contact me at [theonlycredeski@gmail.com](mailto:theonlycredeski@gmail.com)
-* 🧠  I’m learning more about working with tools like Docker, Kubernetes, and cloud platforms to automate and scale systems.
 * 💬  Ask me about anything QA.
 * 🤝  Looking to collaborate on QA initiatives and contribute to teams focused on modern infrastructure and automation.
 
